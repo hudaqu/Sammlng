@@ -19,6 +19,9 @@ namespace Sammlung
     /// <summary>
     /// Interaktionslogik für MainWindow.xaml
     /// </summary>
+    /// 
+
+    //Hab mal ein Kommentar versteckt
     public partial class MainWindow : Window
     {
         //FILTER
