@@ -1,0 +1,15 @@
+C:\Users\Surface\source\repos\Sammlung\Sammlung\bin\Debug\Sammlung.exe.config
+C:\Users\Surface\source\repos\Sammlung\Sammlung\bin\Debug\Sammlung.exe
+C:\Users\Surface\source\repos\Sammlung\Sammlung\bin\Debug\Sammlung.pdb
+C:\Users\Surface\source\repos\Sammlung\Sammlung\obj\Debug\Sammlung.csprojAssemblyReference.cache
+C:\Users\Surface\source\repos\Sammlung\Sammlung\obj\Debug\MainWindow.g.cs
+C:\Users\Surface\source\repos\Sammlung\Sammlung\obj\Debug\App.g.cs
+C:\Users\Surface\source\repos\Sammlung\Sammlung\obj\Debug\Sammlung_MarkupCompile.cache
+C:\Users\Surface\source\repos\Sammlung\Sammlung\obj\Debug\Sammlung_MarkupCompile.lref
+C:\Users\Surface\source\repos\Sammlung\Sammlung\obj\Debug\MainWindow.baml
+C:\Users\Surface\source\repos\Sammlung\Sammlung\obj\Debug\Sammlung.g.resources
+C:\Users\Surface\source\repos\Sammlung\Sammlung\obj\Debug\Sammlung.Properties.Resources.resources
+C:\Users\Surface\source\repos\Sammlung\Sammlung\obj\Debug\Sammlung.csproj.GenerateResource.cache
+C:\Users\Surface\source\repos\Sammlung\Sammlung\obj\Debug\Sammlung.exe
+C:\Users\Surface\source\repos\Sammlung\Sammlung\obj\Debug\Sammlung.pdb
+C:\Users\Surface\source\repos\Sammlung\Sammlung\obj\Debug\App.baml
